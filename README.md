@@ -15,7 +15,7 @@ LeadScraper is a tool designed to help job seekers automate the process of findi
 
 1. Clone this repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/mdishmam/LeadScraper
    cd LeadScraper
    ```
 
